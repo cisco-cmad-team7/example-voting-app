@@ -9,7 +9,7 @@ pipeline {
                 echo 'Buid here'
 		dir('result'){
 		sh 'npm install'
-		sh 'npm ls''
+		sh 'npm ls'
 		}
             }
         }
