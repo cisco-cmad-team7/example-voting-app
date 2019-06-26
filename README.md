@@ -2,7 +2,7 @@ Example Voting App
 =========
 changes  made by feature parma
 
-test 1 
+test 2 
 Getting started
 ---------------
 
